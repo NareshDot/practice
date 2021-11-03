@@ -41,7 +41,7 @@
     "path": "^0.12.7",
     "socket.io": "^2.1.1",
     "time-grunt": "^1.4.0",
-    "validator": "^10.8.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "ava": "^0.15.2",
